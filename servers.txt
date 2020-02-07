@@ -1,2 +1,3 @@
-cha1acmps03
-cha1acmps04
+server01
+server02
+
